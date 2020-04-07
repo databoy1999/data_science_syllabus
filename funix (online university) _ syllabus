@@ -1,0 +1,43 @@
+Môn 1: Introduction to Data science 
+
+Môn học này giới thiệu cho người học các khái niệm cơ bản trong khoa học dữ liệu (Data Science) bao gồm data science là gì, các chủ đề và thuật toán trong Data Science và ứng dụng trong thực tế. Ngoài ra môn học giới thiệu phương pháp luận sử dụng trong khoa học dữ liệu, vòng đời dự án Data Science. Học viên cũng được dạy về lập trình Python cơ bản và ôn tập lại về xác suất thống kê.
+
+Biết cách lập trình Python cơ bản, các cấu trúc dữ liệu trong Python, làm việc với Pandas và Numpy
+Nắm được các kiến thức kỹ năng cần thiết cho Data Science trong xác suất thông kê
+Hiểu được các khái niệm cơ bản, các chủ đề, các ứng dụng của Data Science
+Hiểu được phương pháp luận sử dụng trong data science, các bước để giải quyết các vấn đề data science từ nêu được bài toán, thu thập và phân tích dữ liệu, xây dựng thuật toán và hiểu được phản hồi sau khi thuật toán được cài đặt và sử dụng
+Môn 2: Data analysis with Python
+
+Rất nhiều dữ liệu trên thế giới hiện nay được lưu trên cơ sở dữ liệu, kiến thức về cơ sở dữ liệu và ngôn ngữ SQL rất cần thiết để trở thành nhà khoa học dữ liệu. Môn học cung cấp kiến thức về các khái niệm cơ sở dữ liệu quan hệ, thực hành các câu lệnh query sử dụng ngôn ngữ SQL và Python. Học viên học làm việc sâu với Pandas, Numpy để khám phá nhiều dạng dữ liệu, làm sạch dữ liệu, xử lý dữ liệu bị thiếu. Môn học dạy cách biểu diễn dữ liệu để hiểu sâu hơn về dữ liệu, giúp đưa ra các quyết định hiệu quả.
+
+Viết được các câu lệnh SQL cơ bản: CREATE, DROP, SELECT, INSERT, UPDATE, DELETE
+Biết vận dụng các câu lệnh truy vấn nâng cao như filter, sort, group
+Sử dụng Python để truy cập vào cơ sở dữ liệu
+Biết import và export data
+Nắm được cách tiền xử lý dữ liệu, xử lý dữ liệu bị thiếu, chuẩn hóa dữ liệu
+Thực hiện được thống kê dữ liệu, tìm độ tương quan trong dữ liệu
+Biết cách biểu diễn dữ liệu theo dạng biểu đồ sử dụng các thư viện Matplotlib
+Học được cách biểu diễn dữ liệu dạng nâng cao qua thư viện Seaborn và Folium
+Môn 3: Machine Learning
+
+Học viên được dạy mục đích của học máy và các ứng dụng trong thực tế. Môn học trang bị các thuật toán trong học máy: regression, classification, clustering, recommender system.
+
+Nắm được tổng quan về các topic trong machine learning: supervised learning, unsupervised learning
+Hiểu và thực hành các thuật toán về Regression
+Hiểu và thực hành các thuật toán về Classification
+Hiểu và thực hành các thuật toán về Clustering
+Hiểu về Recommender Systems
+Thực hành cách thuật toán vào bài toán thực tế
+Biết cách biểu diễn dữ liệu theo dạng biểu đồ sử dụng các thư viện Matplotlib
+Môn 4: Introduction to Deep Learning
+
+Mục đích của môn học trang bị cho người học kiến thức cơ bản về các mạng nơ ron hiện này và ứng dụng trong thị giác máy tính và xử lý ngôn ngữ tự nhiên. Môn học bao gồm chủ đề về stochastic optimization, các thủ thuật khi huấn luyện mạng nơ ron, cách xây dựng mạng nơ ron. Học viên còn được học về các kiến trúc mạng nơ ron phức tạp trên các framework Tensorflow và Keras. Người học sẽ biết cách sử dụng các thuật toán về deep learning để giải quyết các bài toán AI.
+
+Nắm được kiến thức về gradient descent, stochastic gradient descent, regularization, overfitting
+Biết được khái niệm về deep neural network
+Giới thiệu về deep learning sử dụng trong thị giác máy tính. Hiểu được kiến trúc mạng CNN và biết cách sử dụng pre-train model cho các vấn đề mới
+Cung cấp kiến thức unsupervised part trong deep learning như autoencoder, word embedding, GAN
+Học viên học được cách sử dụng deep learning cho các dữ liệu dạng chuỗi như texts, video, audio. Nắm được kiến thức về RNN, LSTM, GRU, Backpropagation và được thực hành.
+Môn 5: Đồ án cuối khóa
+
+Đồ án cuối khóa mô phỏng một dự án trọn vẹn mà cá nhân học viên cần thực hiện, đáp ứng yêu cầu quy trình làm việc và đảm bảo ứng dụng các kiến thức, kỹ năng về Data Science được học để giải quyết một bài toán thực tiễn ở doanh nghiệp. Học viên hoàn thành đồ án sẽ sẵn sàng là một nhân viên bắt đầu làm được việc về data science tại doanh nghiệp. Dự án cuối khóa này sẽ cho học viên kinh nghiệm xử lý dự án trong thực tế và giúp bạn thể hiện khả năng chuyên môn trong lĩnh vực data science với nhà tuyển dụng. Bạn sẽ áp dụng các kỹ năng của mình vào data visualization, data analysis, data wrangling, data organization, data modeling và machine learning để giải quyết nhu cầu khách hàng. 
